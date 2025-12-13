@@ -23,4 +23,4 @@ module.exports = {
     }
     typingStatus[ticketId].admin = isTyping;
   },
-};
+}; 
